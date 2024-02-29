@@ -1,4 +1,3 @@
-# ui.py
 def solicitar_datos():
     departamento = input("Digite el nombre del departamento que desea consultar (en MAYUSCULAS): ")
     limite_registros = int(input("Digite el número de registros que desea obtener: "))
